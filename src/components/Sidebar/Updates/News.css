@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.update-news{
+    border-bottom: 2px solid black ;
+    padding-bottom: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.update-news h4{
+    margin: 5px;
+}
+.img{
+    width: 100%;
+    
+}
+
+.img img {
+    width: 100%;
+    
+}
